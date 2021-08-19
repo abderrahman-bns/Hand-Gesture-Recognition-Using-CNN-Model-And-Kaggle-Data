@@ -1,16 +1,16 @@
-# hand_gesture_recognition
+# Hand-Gesture-Recognition-Using-CNN-Model-And-Kaggle-Data
 
-Project tasks :
+## Project tasks :
 
-Task 1: Preprocessing data for the CNN.
+* Task 1: Preprocessing data for the CNN.
 
-Task 2 : Data augmentation
+* Task 2 : Data augmentation
 
-Task 3:  Building the CNN.
+* Task 3:  Building the CNN.
 
-Task 4:Training the CNN.
+* Task 4:Training the CNN.
 
-Task 5: Obtain predictions
+* Task 5: Obtain predictions
 
 ------------------------------------------------------------------------------------------------------------------
 
